@@ -1,6 +1,6 @@
 ---
 
-# **MacroDeck: Arduino-Powered Macro Controller**
+**MacroDeck: Arduino-Powered Macro Controller**
 
 **MacroDeck** is an interactive macro controller that integrates an Arduino, buttons, and a potentiometer to perform system actions on your computer. It offers seamless control over fullscreen mode, applications, system volume, and more, making it ideal for productivity and media setups.
 
